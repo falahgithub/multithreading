@@ -1,0 +1,29 @@
+.wrapper {
+    gap: 50px;
+    align-items: center;
+}
+
+.element1{
+    margin: 20px 20px;
+    padding: 20px 20px;
+    background-color:antiquewhite;
+
+}
+
+.element2{
+    margin: 20px 20px;
+    padding: 20px 20px;
+    background-color:antiquewhite;
+}
+
+header {
+    background-color:rgb(221, 143, 129);
+    padding: 20px 20px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+h1 {
+    padding-bottom: 20px;
+}
+
